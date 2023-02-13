@@ -1,4 +1,4 @@
-# ATM_machine_POTOTYPE
+# ATM_machine_PROTOTYPE
 Python based ATM machine project
 
 it is GUI based application developed using python. It ic a prototype of ATM maachine 
